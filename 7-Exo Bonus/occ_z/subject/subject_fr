@@ -1,0 +1,17 @@
+directory : occ_z/code
+file to submit : occ_z.c
+authorized function : none
+
+prototype :
+
+int	occ_z(char *str);
+
+consigne :
+
+- Écrivez une fonction qui renvoie le nombre de 'z' dans la chaîne de caractères donnée en paramètre.
+
+exemple : 
+
+	?> ./a.out "zalut lez zamis !"
+	3
+	?>
